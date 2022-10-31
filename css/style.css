@@ -1,0 +1,40 @@
+body{
+    background-color: #004643;
+}
+.navbar{
+    background-color: #004643 !important;
+}
+.navbar-brand,.navbar-brand:visited, .nav-link, .nav-link:visited{
+    color: #FFFFFE;
+}
+.btn-cv, .btn-cv:hover, .btn-prog, .btn-prog:hover{
+    background-color: #F9BC60 ;
+    color: #001e1d;   
+}
+
+.aprendiendo, .habilidades, .contacto{
+    background-color: #ABD1C6;
+}
+
+.lista_aprendiendo .card{
+    background-color: #004643 !important;
+}
+
+.btn-con, .btn-con:hover{
+    background-color: #004643;
+    color: #FFFFFE;   
+}
+
+.lista_habilidades .card{
+    background-color: #004643 !important;
+}
+.lista_contacto .card{
+    background-color: #004643 !important;
+}
+
+.lista_programas .card{
+    background-color: #FFFFFE;
+}
+.nav-link:visited {
+    color: #FFFFFE;
+}
